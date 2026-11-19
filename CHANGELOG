@@ -1,6 +1,6 @@
 Release 6.2.3 (Not yet released)
 -------------
- * 
+ * [Standalone] Use Nginx 1.30.7, including fixes for CVE-2026-123007 and CVE-2026-123633.
 
 
 Release 6.2.2
